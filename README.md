@@ -1,1 +1,1 @@
-Built a Calculator using HTML, CSS and Javascript.
+Created a Calculator using HTML, CSS and Javascript.
